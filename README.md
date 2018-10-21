@@ -1,2 +1,18 @@
-# Angular6-SpringMVC-Bank-App
-Full-Stack Spring/Angular6 Bank Transactions App, Tech used: Spring MVC, ThymeLeaf, RESTful Api, Hibernate, Maven, Angular 6, Typescript...
+Online Banking with Java, Spring Boot, Angular 6
+Developed an Banking website which lets you deposit or withdraw money, schedule an appointment with a banker, view bank statements, transfer money between primary or savings account or with other customer.
+
+Created two separate server:
+
+-User Frontend
+-Admin Portal
+
+*User Frontend(Thymeleaf Templates)
+User-Front is a user-facing system and it includes modules such as User Signup/Login, Account, Transfer, Appointment, Transaction and User Profile.
+
+*Admin Portal(Angular6 FrontEnd)
+It is mainly used by Admin and it involves User Account and Appointment modules. Admin can enable/disable Users, view statements of every Users, confirm an appointment.
+
+Technologies Used
+Front-end: Html5/CSS3, JavaScript, TypeScript, JQuery, Bootstrap, Angular 6 and some JS plugins, JSON, Thymeleaf
+
+Back-end: Java 8, Spring Boot, Spring Data, Spring Security, Hibernate, MySQL, Maven, Log4j
