@@ -1,4 +1,4 @@
-Online Banking with Java, Spring Boot, Angular 6
+                                Online Banking with Java, Spring Boot, Angular 6
 Developed an Banking website which lets you deposit or withdraw money, schedule an appointment with a banker, view bank statements, transfer money between primary or savings account or with other customer.
 
 Created two separate server:
